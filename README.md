@@ -63,7 +63,7 @@ XENIA/
 ## 📘 Principes du projet
 - **Accessibilité** : facile à remplir, à comprendre, à montrer
 - **Sécurité** : pas de collecte ni d’envoi de données
-- **Modularité** : possibilité d’étendre à d’autres besoins (asthme, diabète…)
+- **Modularité** : possibilité d’étendre à d’autres besoins (asthme, diabète, déficit en G6PD…)
 - **Open Source** : projet communautaire, adaptable par tous
 
 ---
