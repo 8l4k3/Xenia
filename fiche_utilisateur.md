@@ -27,7 +27,7 @@
 ---
 
 ## 3️⃣ Allergies médicamenteuses
-| Médicament / substance active | Réaction observée | Gravité |
+| Médicament / substance active ou excipient | Réaction observée | Gravité |
 |--------------------------------|------------------|---------|
 | Exemple : Amoxicilline         | Urticaire        | Moyenne |
 
