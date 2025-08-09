@@ -92,3 +92,5 @@ Projet sous licence **MIT** — libre d’utilisation, modification et partage.
 Ce document est un **aide-mémoire personnel** et ne remplace pas un avis médical.  
 En cas de doute ou de réaction allergique, contactez immédiatement un professionnel de santé.
 
+[Lire le Disclaimer complet](DISCLAIMER.md)
+
