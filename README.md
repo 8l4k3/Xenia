@@ -38,24 +38,30 @@ L’objectif : **faciliter la communication** avec les professionnels (restaurat
 
 XENIA/
 
+
 ├── README.md ← Présentation du projet
 
 ├── ROADMAP.md ← Suivi de l’avancement
 
-
 ├── DISCLAIMER.md ← Clause de non-responsabilité médicale
 
-├── fiche_utilisateur.md ← Modèle de fiche personnalisable (Markdown)
+├── sources/ ← Références officielles
 
-├── templates/
+│   └── sources_officielles.md        
 
-│ ├── XENIA_fiche_modele.docx ← Modèle Word prêt à remplir
+├── docs/ ← Guide pour les allergies croisées & générer un QR code localement 
 
-├── allergies_croisees.md ← Base de connaissance simplifiée
+│   ├── allergies_croisees.md
 
-├── sources.md ← Références officielles
+│   └── QRcode.md
 
-├── QRcode.md ← Guide pour générer un QR code localement
+├── templates/  ← Modèle de fiche personnalisable  
+
+│   ├── XENIA_fiche_utilisateur.md ← Markdown modèle fiche utilisateur      
+
+│   ├── XENIA_fiche_utilisateur.docx ← Word modèle    
+
+│   └── XENIA_fiche_utilisateur.pdf  ← PDF modèle   
 
 
 ---
