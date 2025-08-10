@@ -1,37 +1,67 @@
 # 🟦 XENIA  
-**Carte numérique personnelle pour la gestion des allergies alimentaires, médicamenteuses et cosmétiques**
-
----
+**Carte numérique personnelle pour la gestion des allergies alimentaires, médicamenteuses et cosmétiques**  
 
 ## 🎯 Objectif du projet
-XENIA est un outil **hors ligne**, personnalisable et partageable, permettant à toute personne de présenter clairement ses allergies et informations médicales essentielles.  
-L’objectif : **faciliter la communication** avec les professionnels (restaurateurs, soignants, pharmaciens…), même en voyage ou en situation d’urgence, tout en préservant la vie privée.
+XENIA permet à toute personne allergique ou atteinte d’une condition médicale spécifique de disposer d’une fiche claire, lisible et partageable (via QR code ou impression), regroupant :  
+- Allergies alimentaires  
+- Allergies médicamenteuses (substance active, excipient)  
+- Allergies cosmétiques  
+- Allergies croisées possibles  
+- Maladies et traitements médicaux  
+- Informations médicales utiles (groupe sanguin, contacts d’urgence…)  
+
+Le tout **hors ligne** pour respecter la vie privée.
 
 ---
 
 ## ✅ Public visé
-- Enfants (via leurs parents)
-- Personnes allergiques nomades ou voyageant à l’étranger
-- Personnes étrangères ou muettes ayant besoin de communiquer leurs restrictions
-- Aidants, professionnels de santé, établissements accueillant du public
+- Enfants (via les parents)  
+- Personnes allergiques nomades ou en voyage  
+- Personnes étrangères ou muettes ayant besoin de montrer leurs restrictions  
+- Aidants, professionnels, établissements accueillant du public  
 
 ---
 
-## 💡 Fonctionnalités prévues (version 1)
-- **Fiche personnalisable** au format `.md`, `.pdf` et `.docx` avec sections :
-  - Allergies alimentaires
-  - Allergies médicamenteuses
-  - Allergies cosmétiques
-  - Allergies croisées possibles
-  - Informations utiles (groupe sanguin, traitements, contacts d’urgence…)
-- **QR code généré localement** pour partager la fiche (sur smartphone, carte plastifiée…)
-- **Base documentaire intégrée** :
-  - Liste des allergènes les plus fréquents
-  - Allergies croisées connues (avec sources officielles)
-- **Fonctionnement 100% local** :
-  - Pas de serveur ni base de données en ligne
-  - Stockage uniquement sur l’appareil de l’utilisateur
-  
+## 💡 Fonctionnalités prévues (v1)
+- Modèle de fiche personnalisable aux formats **Word (.docx)**, **PDF** et **Markdown**
+- QR code généré localement pour partager la fiche
+- Base documentaire sur :
+  - Allergènes les plus fréquents
+  - Allergies croisées connues (sources officielles)
+- Fonctionnement local uniquement :  
+  Pas de serveur, pas de base de données centralisée  
+  Stockage uniquement sur l’appareil de l’utilisateur
+
+---
+
+## 📥 Téléchargement des modèles
+📂 **Dossier Templates** : [templates/](./templates)  
+
+- [📄 Modèle Word – XENIA_fiche_utilisateur.docx](./templates/XENIA_fiche_utilisateur.docx)  
+- [📄 Modèle PDF – XENIA_fiche_utilisateur.pdf](./templates/XENIA_fiche_utilisateur.pdf)  
+- [📝 Modèle Markdown – fiche_utilisateur.md](./fiche_utilisateur.md)  
+
+---
+
+## 📘 Guide d’utilisation rapide
+1. **Téléchargez** le modèle Word ou Markdown  
+2. **Remplissez** vos informations  
+3. **Enregistrez** en PDF (si vous avez utilisé Word ou Markdown)  
+4. **Imprimez** ou gardez sur votre téléphone  
+5. **Générez** un QR code localement → [Voir guide](./QRcode.md)
+
+---
+
+## 📚 Sources officielles utilisées
+Voir [sources.md](./sources.md)  
+> Nous nous basons uniquement sur des ressources officielles et fiables (agences de santé, publications scientifiques en accès libre).  
+
+---
+
+## ⚠️ Clause de non-responsabilité
+Voir [DISCLAIMER.md](./DISCLAIMER.md)  
+> Ce document ne remplace pas un avis médical. Il est conçu comme un aide-mémoire personnel.
+
 ---
 
 ## 📦 Structure du dépôt
@@ -66,26 +96,20 @@ XENIA/
 
 ---
 
-## 📘 Principes du projet
-- **Accessibilité** : facile à remplir, à comprendre, à montrer
-- **Sécurité** : pas de collecte ni d’envoi de données
-- **Modularité** : possibilité d’étendre à d’autres besoins (asthme, diabète, déficit en G6PD…)
-- **Open Source** : projet communautaire, adaptable par tous
-
----
-
-## 🔄 Évolutions possibles
-- Traductions multilingues (français, anglais, espagnol…)
+## 🔄 Idées d’évolution possibles
+- Traductions multi-langues
 - Générateur de fiche via page HTML locale
-- Application web hors ligne
-- Impression PDF stylisée avec icônes
-- Système de symboles visuels pour faciliter la lecture
+- Application web offline
+- Option d’impression PDF stylisée
+- Système d’icônes pour simplifier la lecture
 
 ---
 
-## 🧠 Sources potentielles à intégrer
-
-Sources **publiques, officielles ou en accès libre**, ce qui garantit leur utilisation légale dans un projet open source.
+## 🧠 Inspirations & principes
+- **Accessibilité** : facile à remplir, à comprendre, à montrer  
+- **Sécurité** : pas de collecte de données  
+- **Modularité** : possibilité d’étendre à d’autres besoins (asthme, diabète, déficit en G6PD…)  
+- **Open Source** : projet communautaire que chacun peut adapter  
 
 ---
 
@@ -93,10 +117,3 @@ Sources **publiques, officielles ou en accès libre**, ce qui garantit leur util
 Projet sous licence **MIT** — libre d’utilisation, modification et partage.
 
 ---
-
-## ⚠️ Disclaimer
-Ce document est un **aide-mémoire personnel** et ne remplace pas un avis médical.  
-En cas de doute ou de réaction allergique, contactez immédiatement un professionnel de santé.
-
-[Lire le Disclaimer complet](DISCLAIMER.md)
-
