@@ -16,8 +16,8 @@ Créer un outil **hors ligne**, personnalisable et partageable, pour aider les p
 - [x] Ajout de `DISCLAIMER.md`  
 - [x] Ajout de `sources.md` (sources officielles et scientifiques uniquement)  
 - [x] Ajout de `fiche_utilisateur.md` (modèle à remplir)  
-- [ ] Création d’un modèle **Word (.docx)** pré-formaté  
-- [ ] Création d’un modèle **PDF** de la fiche
+- [x] Création d’un modèle **Word (.docx)** pré-formaté  
+- [x] Création d’un modèle **PDF** de la fiche
 
 ---
 
