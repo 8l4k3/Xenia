@@ -14,15 +14,17 @@
 - **Groupe sanguin :**  
 - **Médecin traitant :**  
 - **Contact(s) d’urgence :**  
-  - Nom :  
-  - Téléphone :  
-
+- **Maladies / Traitements medicaux :**
+- **Autres informations medicales utiles (pathologies associees)**
+  
 ---
 
 ## 2️⃣ Allergies alimentaires
 | Aliment / ingrédient | Réaction observée | Gravité (faible/moyenne/forte) |
 |----------------------|------------------|--------------------------------|
 | Exemple : Arachides  | Choc anaphylactique | Forte |
+
+
 
 ---
 
@@ -31,6 +33,8 @@
 |--------------------------------|------------------|---------|
 | Exemple : Amoxicilline         | Urticaire        | Moyenne |
 
+
+
 ---
 
 ## 4️⃣ Allergies cosmétiques
@@ -38,26 +42,26 @@
 |----------------------|------------------|---------|
 | Exemple : Parabène   | Rougeurs          | Faible |
 
+
+
 ---
 
 ## 5️⃣ Allergies croisées possibles
 > Indiquez ici les allergies ou intolérances liées à une réaction croisée connue (ex : allergie au latex et au kiwi).
 
----
-
-## 6️⃣ Autres informations médicales utiles
-- Traitements réguliers :  
-- Pathologies associées :  
 
 ---
 
-## 7️⃣ Informations multilingues *(optionnel)*
+## 6️⃣ Informations multilingues *(optionnel)*
 > Pour les voyages, indiquez vos allergies dans d'autres langues (anglais, espagnol…).
 
+
 ---
 
-## 8️⃣ QR Code *(optionnel)*
+## 7️⃣ QR Code *(optionnel)*
 > Vous pouvez générer un QR code contenant ces informations (voir [QRcode.md](QRcode.md)).
+
+
 
 ---
 
