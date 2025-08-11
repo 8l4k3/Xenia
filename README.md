@@ -49,8 +49,7 @@ Le tout **hors ligne** pour respecter la vie privée.
 2. **Remplissez** vos informations  
 3. **Enregistrez** en PDF (si vous avez utilisé Word ou Markdown)  
 4. **Imprimez** ou gardez sur votre téléphone  
-5. **Générez** un QR code localement → [Voir guide](./QRcode.md)
-
+5. **Générez** un QR code localement →  [`docs/QRcode.md`](/docs/QRcode.md) 
 ---
 
 ## 📚 Sources officielles utilisées
