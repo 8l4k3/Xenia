@@ -53,7 +53,7 @@ Le tout **hors ligne** pour respecter la vie privée.
 ---
 
 ## 📚 Sources officielles utilisées
-Voir [sources.md](./sources.md)  
+Voir [/sources/sources_officielles.md](/sources/sources_officielles.md)  
 > Nous nous basons uniquement sur des ressources officielles et fiables (agences de santé, publications scientifiques en accès libre).  
 
 ---
