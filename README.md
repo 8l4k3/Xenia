@@ -76,10 +76,12 @@ XENIA/
 
 ├── DISCLAIMER.md ← Clause de non-responsabilité médicale
 
-├── sources/ ← Références officielles
+├── sources/ ← Sources & Références Bibliographiques 
 
-│   └── sources_officielles.md        
+│   └── sources_officielles.md ← Sources Bibliographiques       
 
+│   └── annexes.md ← Références Bibliographiques         
+ 
 ├── docs/ ← Guide pour les allergies croisées & générer un QR code localement 
 
 │   ├── allergies_croisees.md
