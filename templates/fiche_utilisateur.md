@@ -8,7 +8,7 @@
 
 ---
 
-## 1️⃣ Informations générales
+## Informations générales
 - **Nom et prénom :**  
 - **Date de naissance :**  
 - **Groupe sanguin :**  
@@ -16,7 +16,17 @@
 - **Contact(s) d’urgence :**  
 - **Maladies / Traitements medicaux :**
 - **Autres informations medicales utiles (pathologies associees)**
-  
+
+  ---
+
+## 1️⃣ Allergies environnementales
+| Animaux, pollens, acariens, moisissures, poussière, etc.  | Réaction observée | Gravité (faible/moyenne/forte) |
+|----------------------|------------------|--------------------------------|
+| Exemple : Poils de chat | Rhinite/Conjonctivite | Moyenne |
+
+
+
+
 ---
 
 ## 2️⃣ Allergies alimentaires
@@ -46,8 +56,8 @@
 
 ---
 
-## 5️⃣ Allergies croisées possibles
-> Indiquez ici les allergies ou intolérances liées à une réaction croisée connue (ex : allergie au latex et au kiwi).
+## 5️⃣ Allergies croisées connues et/ou fortement possibles
+> Indiquez ici les allergies ou intolérances liées aux réactions croisées connues et/ou fortement possibles (exemple : Allergie au Latex et Kiwi).
 
 
 ---
@@ -59,7 +69,8 @@
 ---
 
 ## 7️⃣ QR Code *(optionnel)*
-> Vous pouvez générer un QR code contenant ces informations (voir [QRcode.md](QRcode.md)).
+> (QR code généré avec ce document — voir `docs/QRcode.md` ).
+
 
 
 
