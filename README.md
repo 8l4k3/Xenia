@@ -3,7 +3,8 @@
 
 ## 🎯 Objectif du projet
 XENIA permet à toute personne allergique ou atteinte d’une condition médicale spécifique de disposer d’une fiche claire, lisible et partageable (via QR code ou impression), regroupant :  
-- Allergies alimentaires  
+- Allergies environnementales
+- Allergies alimentaires
 - Allergies médicamenteuses (substance active, excipient)  
 - Allergies cosmétiques  
 - Allergies croisées possibles  
