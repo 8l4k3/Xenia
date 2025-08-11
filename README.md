@@ -7,7 +7,7 @@ XENIA permet à toute personne allergique ou atteinte d’une condition médical
 - Allergies alimentaires
 - Allergies médicamenteuses (substance active, excipient)  
 - Allergies cosmétiques  
-- Allergies croisées possibles  
+- Allergies croisées connues et/ou fortement possibles
 - Maladies et traitements médicaux  
 - Informations médicales utiles (groupe sanguin, contacts d’urgence…)  
 
