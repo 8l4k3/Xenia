@@ -77,15 +77,17 @@ XENIA/
 
 ├── sources/ ← Sources & Références Bibliographiques 
 
-│   └── sources_officielles.md ← Sources Bibliographiques       
+│   └── annexes.md ← Références Bibliographiques       
 
-│   └── annexes.md ← Références Bibliographiques         
+│   └── sources_officielles.md ← Sources Bibliographiques  
  
 ├── docs/ ← Guide pour les allergies croisées & générer un QR code localement 
 
+│   └── QRcode.md
+
 │   ├── allergies_croisees.md
 
-│   └── QRcode.md
+│   ├── allergies_croisees_annexe.md
 
 ├── templates/  ← Modèle de fiche personnalisable  
 
