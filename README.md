@@ -85,15 +85,19 @@ XENIA/
 
 │   └── QRcode.md
 
-│   ├── allergies_croisees.md
+│   └── allergies_croisees.md
 
-│   ├── allergies_croisees_annexe.md
+│   └── docs/allergies_croisees.md.pdf ← PDF modèle 
+
+│   └── allergies_croisees_annexe.md
+
+│   └── docs/allergies_croisees_annexe.md.pdf ← PDF modèle 
 
 ├── templates/  ← Modèle de fiche personnalisable  
 
-│   ├── XENIA_fiche_utilisateur.md ← Markdown modèle fiche utilisateur      
+│   └── XENIA_fiche_utilisateur.md ← Markdown modèle fiche utilisateur      
 
-│   ├── XENIA_fiche_utilisateur.docx ← Word modèle    
+│   └── XENIA_fiche_utilisateur.docx ← Word modèle    
 
 │   └── XENIA_fiche_utilisateur.pdf  ← PDF modèle   
 
