@@ -5,6 +5,21 @@ Aucune information issue de ressources privées, commerciales ou fermées n’es
 
 ---
 
+## 🌳 Allergies environnementales
+**ANSES** — Agence nationale de sécurité sanitaire de l’alimentation, de l’environnement et du travail (France) — Qualité de l’air, pollens, exposition environnementale
+🔗 https://www.anses.fr/fr
+
+**EFSA** — Autorité européenne de sécurité des aliments — Risques liés aux contaminants environnementaux
+🔗 https://www.efsa.europa.eu/
+
+**ECDC** — Centre européen de prévention et de contrôle des maladies — Allergies et environnement
+🔗 https://www.ecdc.europa.eu/
+
+**WHO** — Organisation mondiale de la santé — Santé et environnement
+🔗 https://www.who.int/health-topics/environment-and-health
+
+---
+
 ## 🥗 Allergènes alimentaires
 - **ANSES** — Agence nationale de sécurité sanitaire de l’alimentation, de l’environnement et du travail (France)  
   🔗 https://www.anses.fr/fr  
