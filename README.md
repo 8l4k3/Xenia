@@ -103,6 +103,8 @@ XENIA/
 
 │   └── generate_docs_pro_xenia.py ← Script pour génèrer une Version avancée (mise en page ++, icônes, couleurs)
 
+│   └── src/requirements.txt ← dépendances nécessaires
+
 ├── fiches/  ← fiche personnalisable  
 
 │   └── fiche_utilisateur.md
