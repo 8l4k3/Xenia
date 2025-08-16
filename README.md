@@ -109,6 +109,10 @@ XENIA/
 
 │   └── generate_with_qrcode.py ← Script pour 3 fichiers synchronisés (PDF, DOCX, PNG)
 
+│   └── qrcode_pdf.py ← QR code vers la fiche PDF
+
+│   └── qrcode_voyage.py ← QR code contenant les données essentielles
+
 │   └── src/requirements.txt ← dépendances nécessaires
 
 ├── fiches/  ← fiche personnalisable  
