@@ -58,4 +58,6 @@ Les contributions sont bienvenues !
 
 ---
 
-✏️ *Dernière mise à jour :* 2025-08-10
+✏️ *Dernière mise à jour :* 2025-08-16
+
+---
