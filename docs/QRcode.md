@@ -18,7 +18,7 @@ pip install qrcode[pil]
 ## 2️⃣ Lancer le script de génération
 
 Le script est disponible dans le dossier src/ :
-python src/qrcode_gen.py
+(python) src/qrcode_gen.py
 
 ## 3️⃣ Résultat attendu
 
