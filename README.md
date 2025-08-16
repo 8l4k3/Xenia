@@ -83,11 +83,11 @@ XENIA/
  
 ├── docs/ ← Guide pour les allergies croisées & générer un QR code localement 
 
-│   └── QRcode.md 
+│   └── QRcode ←  guide explicatif 
 
-│        └── PERSONNALISER_FICHE.md  ←  guide explicatif 
+│   └── └── PERSONNALISER_FICHE.md  
 
-│   └── QRcode.md 
+│   └── └── QRcode.md 
 
 │   └── allergies_croisees.md  ←  guide explicatif 
 
