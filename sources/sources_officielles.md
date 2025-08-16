@@ -96,3 +96,4 @@ Aucune information issue de ressources privées, commerciales ou fermées n’es
 Les données issues de ces sources sont utilisées à des fins **informatives** uniquement.  
 Elles ne remplacent pas un diagnostic médical ou un avis professionnel.
 
+---
