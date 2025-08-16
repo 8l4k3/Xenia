@@ -83,15 +83,19 @@ XENIA/
  
 ├── docs/ ← Guide pour les allergies croisées & générer un QR code localement 
 
-│   └── QRcode.md
+│   └── QRcode.md  ←  guide explicatif 
 
-│   └── allergies_croisees.md
+│   └── allergies_croisees.md  ←  guide explicatif 
 
-│   └── docs/allergies_croisees.md.pdf ← PDF modèle 
+│   └── allergies_croisees.md.pdf ←  PDF modèle 
 
-│   └── allergies_croisees_annexe.md
+│   └── allergies_croisees_annexe.md  ←  guide explicatif 
 
-│   └── docs/allergies_croisees_annexe.md.pdf ← PDF modèle 
+│   └── allergies_croisees_annexe.md.pdf ← PDF modèle 
+
+├── src/ ← Script Python pour générer le QR code  
+
+│   └── /qrcode_gen.py ← script
 
 ├── templates/  ← Modèle de fiche personnalisable  
 
