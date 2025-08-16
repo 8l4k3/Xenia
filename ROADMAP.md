@@ -22,8 +22,8 @@ Créer un outil **hors ligne**, personnalisable et partageable, pour aider les p
 ---
 
 ## 📍 Version 0.2 — Génération locale de documents
-- [ ] Script local (Python ou autre) pour convertir la fiche `.md` en `.pdf` et `.docx`  
-- [ ] Mise en page PDF claire et accessible (icônes, couleurs simples)  
+- [x] Script local (Python ou autre) pour convertir la fiche `.md` en `.pdf` et `.docx`  
+- [x] Mise en page PDF claire et accessible (icônes, couleurs simples)  
 - [ ] Ajout d’un tutoriel pour personnaliser la fiche
 
 ---
