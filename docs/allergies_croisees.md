@@ -28,3 +28,5 @@
 
 ## Pour aller plus loin
 Voir l’annexe détaillée : `docs/allergies_croisees_annexe.md` (références complètes et notes cliniques).
+
+---
