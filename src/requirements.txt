@@ -1,0 +1,4 @@
+markdown
+weasyprint
+python-docx
+qrcode[pil]
