@@ -1,5 +1,5 @@
 # 🟦 XENIA  
-**Carte numérique personnelle pour la gestion des allergies alimentaires, médicamenteuses et cosmétiques**  
+**Carte numérique personnelle pour la gestion des allergies  environnementales, alimentaires, médicamenteuses et cosmétiques**  
 
 ## 🎯 Objectif du projet
 XENIA permet à toute personne allergique ou atteinte d’une condition médicale spécifique de disposer d’une fiche claire, lisible et partageable (via QR code ou impression), regroupant :  
