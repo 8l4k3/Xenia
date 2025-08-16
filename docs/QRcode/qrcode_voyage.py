@@ -16,7 +16,7 @@ if __name__ == "__main__":
     Nom: Jean Dupont
     Allergies: Latex, Kiwi, Arachide
     Médicaments interdits: Aspirine
-    Contact urgence: +33 6 12 34 56 78
+    Contact urgence: +33 6 XX XX XX XX 
     """
 
     generate_travel_qr(infos)
