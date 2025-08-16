@@ -107,6 +107,8 @@ XENIA/
 
 │   └── generate_docs_pro_xenia.py ← Script pour génèrer une Version avancée (mise en page ++, icônes, couleurs)
 
+│   └── generate_with_qrcode.py ← Script pour 3 fichiers synchronisés (PDF, DOCX, PNG)
+
 │   └── src/requirements.txt ← dépendances nécessaires
 
 ├── fiches/  ← fiche personnalisable  
