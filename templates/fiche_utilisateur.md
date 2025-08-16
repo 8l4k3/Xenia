@@ -69,7 +69,7 @@
 ---
 
 ## 7️⃣ QR Code *(optionnel)*
-> (QR code généré avec ce document — voir [`docs/QRcode.md`](../docs/QRcode.md) ).
+> (QR code généré avec ce document — voir [`docs/QRcode/QRcode.md`](../docs/QRcode/QRcode.md) ).
 
 
 
