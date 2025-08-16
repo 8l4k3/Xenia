@@ -89,6 +89,8 @@ XENIA/
 
 │   └── └── QRcode.md 
 
+│   └── └── QRcode_mode_voyage.md
+
 │   └── allergies_croisees.md  ←  guide explicatif 
 
 │   └── allergies_croisees.md.pdf ←  PDF modèle 
