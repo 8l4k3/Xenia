@@ -93,11 +93,15 @@ XENIA/
 
 │   └── allergies_croisees_annexe.md.pdf ← PDF modèle 
 
-├── src/ ← Script pour générer le QR code et la documentation 
+├── src/ ← Scripts (Python) 
 
-│   └── qrcode_gen.py ← Script (Python) pour générer le QR code  
+│   └── qrcode_gen.py ← Script pour générer le QR code  
 
-│   └── generate_docs_xenia.py ← Script (Python) pour générer la documentation
+│   └── generate_docs_xenia.py ← Script pour génèrer un doc unique (test basique)
+
+│   └── generate_all_docs_xenia.py ← Script pour genèrer tous les docs d’un coup 
+
+│   └── generate_docs_pro_xenia.py ← Script pour génèrer une Version avancée (mise en page ++, icônes, couleurs)
 
 ├── fiches/  ← fiche personnalisable  
 
