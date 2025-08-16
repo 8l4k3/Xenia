@@ -81,3 +81,4 @@
 Ce document est un **aide-mémoire personnel** et ne remplace pas un avis médical.  
 En cas de réaction allergique grave, contactez immédiatement les services d’urgence.
 
+---
