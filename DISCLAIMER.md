@@ -34,5 +34,6 @@ Le projet XENIA est distribué sous licence **MIT**, ce qui signifie qu’il peu
 
 ---
 
-✏️ *Dernière mise à jour :* 2025-08-09
+✏️ *Dernière mise à jour :* 2025-08-16
 
+---
