@@ -58,3 +58,5 @@
 - ANSES — avis et fiches pratiques sur le latex-fruit et allergènes alimentaires.  
 - EFSA — opinions scientifiques sur allergènes alimentaires (listes et évaluations). 
 - Revues et articles en accès libre (PubMed Central) sur tropomyosine, Bet v 1, Ara h.
+
+---
