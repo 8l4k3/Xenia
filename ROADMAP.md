@@ -29,7 +29,7 @@ Créer un outil **hors ligne**, personnalisable et partageable, pour aider les p
 ---
 
 ## 📍 Version 0.3 — QR Code et partage
-- [ ] Génération d’un QR code local contenant un lien ou les données de la fiche  
+- [x] Génération d’un QR code local contenant un lien ou les données de la fiche  
 - [ ] Guide d’impression sur carte plastifiée ou stickers  
 - [ ] Mode “voyage” avec traduction automatique des allergies
 
